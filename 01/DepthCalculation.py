@@ -9,7 +9,7 @@
 #     previousLine = line
 
 # print(increaseCounter)
-
+# part 2
 increaseCounter = 0
 position = 0
 intList = []
